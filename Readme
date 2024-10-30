@@ -1,0 +1,23 @@
+
+This is frontend for a simple MERN blog app. Frontend is built with react. [Design Credits: Anjali]
+
+### How to Use
+
+To use this project, follow the steps:
+ - Clone repository.
+ - Run command "npm install".
+ - Run command "npm start".
+
+### Screenshots
+
+Landing Page
+
+![Landing Page](https://github.com/Zanjali/blog-frontend/blob/main/Resources/l1.png)
+
+Blog Detail Page
+
+![Detail Page](https://github.com/Zanjali/blog-frontend/blob/main/Resources/l2.png)
+
+Edit Blog Form
+
+![Edit Form](https://github.com/zanjali/blog-frontend/blob/main/Resources/l3.png)
